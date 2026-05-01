@@ -1,7 +1,8 @@
 const fs = require("fs");
+const content = "Hello! How are u?";
 try{
-    fs.writeFileSync("Sample.txt", "Hello! How are u?");
+    fs.writeFileSync("Sample.txt", content);
 }
 catch(err){
-    console.log("File Created Successfully");
+    console.error(err);
 }

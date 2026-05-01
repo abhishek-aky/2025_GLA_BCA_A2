@@ -1,0 +1,14 @@
+{
+  "name": "lec-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Chal_Tujhe_Fanta_Pilata_Hu" : "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
